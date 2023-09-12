@@ -25,7 +25,6 @@ jobs:
         with:
           commit_message: README automad update
           commit_options: '-a -q'
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUPERUSER}}
+
 
           
