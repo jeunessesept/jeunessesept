@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout the code
         uses: actions/checkout@v3
+      
+      - name: install dependencies
+        run: npm install
 
       - name: Run the README update script
         run: |
@@ -22,5 +25,5 @@ jobs:
         with:
           commit_message: README automad update
           commit_options: '-a -q'
-          
+
           
