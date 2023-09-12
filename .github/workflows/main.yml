@@ -1,0 +1,25 @@
+name: README update
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    permissions: 
+      contents: write
+
+    steps:
+      - name: checkout the code
+        uses: actions/checkout@v3
+
+      - name: Run the README update script
+        run: |
+          node index.js
+
+      - name: Auto commit and push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: README automad update
