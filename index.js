@@ -8,10 +8,6 @@ let DATA = {
         weekday: 'long',
         month: 'long',
         day: 'numeric',
-        hour: 'numeric',
-        minute: 'numeric',
-        timeZoneName: 'short',
-        timeZone: 'Europe/Stockholm',
     hour: new Date().toLocaleDateString('en-GB', {
         hour: 'numeric',
         minute: 'numeric',
