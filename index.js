@@ -3,12 +3,14 @@ const fs = require('fs')
 const MUSTACHE_MAIN_DIR = './main.mustache'
 const { DateTime } = require('luxon');
 
-const now = DateTime.now();
+const now = DateTime.now().setZone('Europe/Brussels');
+const formattedDate = now.toFormat('dd LLLL, yyyy');
+const formattedTime = now.toFormat('HH:mm:ss')
 
 let DATA = {
     name: 'Jiacinto',
-    date: now.toLocaleString(DateTime.DATETIME_FULL),
-    hour: now.toFormat('HH:mm:ss'),
+    date: formattedDate,
+    hour: formattedTime,
 };
 
 
