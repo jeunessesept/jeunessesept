@@ -1,21 +1,14 @@
 const Mustache = require("mustache")
 const fs = require('fs')
 const MUSTACHE_MAIN_DIR = './main.mustache'
+const { DateTime } = require('luxon');
+
+const now = DateTime.now();
 
 let DATA = {
     name: 'Jiacinto',
-    date: new Date().toLocaleDateString('en-GB', {
-        weekday: 'long',
-        month: 'long',
-        day: 'numeric',
-    hour: new Date().toLocaleDateString('en-GB', {
-        hour: 'numeric',
-        minute: 'numeric',
-        timeZoneName: 'short',
-        timeZone: 'Europe/Stockholm',
-
-    })
-    })
+    date: now.toLocaleString(DateTime.DATETIME_FULL),
+    hour: now.toFormat('HH:mm:ss'),
 };
 
 
