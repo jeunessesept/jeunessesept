@@ -2,6 +2,7 @@ hello,
 
 I'm Jiacinto and today is 12 September, 2023 .
 
+<<<<<<< HEAD
 
                   __     _                                         
  _    _____  ____/ /__  (_)__    ___  _______  ___ ________ ___ ___
@@ -12,3 +13,6 @@ I'm Jiacinto and today is 12 September, 2023 .
 
 
 last update today at 17:21:34
+=======
+last update today at 17:04:53
+>>>>>>> 2d68d7c8fafd4700b45bc8aef8ad6affe9692d1c
