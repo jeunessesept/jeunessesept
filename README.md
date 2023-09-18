@@ -13,8 +13,8 @@
   </a>
 </div>
 
-📅 Today is <h3>18 September, 2023</h3>. 
+<p> 📅 Today is <b>18 September, 2023</b>.</p>
 
 -- Work in progress --
 
-last update today at 17:12:20 
+last update today at 17:13:49 
