@@ -1,6 +1,6 @@
 <h1 align="center">
   <span>Jiacinto Branducci</span><br>
-  <span>🧑🏻‍💻 web developer 🧑🏻‍💻</span>
+  <span>🧑🏻‍💻 developer 🧑🏻‍💻</span>
 </h1>
 
 <div align="center">
@@ -34,4 +34,4 @@
 
 -- Work in progress --
 
-last update today at 17:52:51 
+last update today at 17:53:12 
