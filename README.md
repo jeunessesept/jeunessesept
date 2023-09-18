@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/insomia-%234000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-Nodemon	![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 
 ### In progress 🚰
@@ -41,4 +41,4 @@ Nodemon	![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-
 
 -- Work in progress --
 
-last update today at 19:24:21 
+last update today at 19:24:41 
