@@ -1,6 +1,6 @@
 <h1 align="center">
   <span>Jiacinto Branducci</span><br>
-  <span>🧞‍♂️🧑🏻‍💻 developer 🧑🏻‍💻🧚</span>
+  <span>🧞‍♂️🧑🏻‍💻 developer 🧑🏻‍💻🧚</span><br>
   <span> 👨‍💻 currently learning AI and Data 💆‍♂️ </span>
 </h1>
 
