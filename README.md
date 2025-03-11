@@ -1,6 +1,7 @@
 <h1 align="center">
   <span>Jiacinto Branducci</span><br>
-  <span>🧞‍♂️🧑🏻‍💻 AI Developer 🧑🏻‍💻🧚</span>
+  <span>🧞‍♂️🧑🏻‍💻 developer 🧑🏻‍💻🧚</span>
+  <span> 👨‍💻 currently learning AI and Data 💆‍♂️ </span>
 </h1>
 
 <div align="center">
@@ -15,7 +16,7 @@
 
 <p> 📅 Today is <b>11 March, 2025</b>.</p>
 
-##  data / AI related skills 🤖
+## My data / AI related skills 🤖
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -29,7 +30,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## web development skills 🚀
+## My web development skills 🚀
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node_js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -50,4 +51,4 @@
 
 -- Work in progress --
 
-last update today at 16:22:16 
+last update today at 21:12:08 
