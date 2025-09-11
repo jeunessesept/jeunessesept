@@ -12,6 +12,7 @@
   <a href="mailto:j.branducci.pro@gmail.com?subject=Demande%20de%20contact%20via%20GitHub">
       <img src="https://img.shields.io/badge/Gmail-EA4336?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <p>hello la mif<\p>
 </div>
 
 <p> 📅 Today is <b>11 September, 2025</b>.</p>
@@ -51,4 +52,4 @@
 
 -- Work in progress --
 
-last update today at 12:20:16 
+last update today at 13:38:30 
