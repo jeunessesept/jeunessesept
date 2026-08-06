@@ -1,6 +1,7 @@
 <h1 align="center">
   <span>Jiacinto Branducci</span><br>
-  <span>🧞‍♂️ Full Stack Developer 🧚</span><br>
+  <span>🧞‍♂️ Full Stack Developer & AI Engineer 🧚</span><br>
+  <span>Specialized in Knowledge Graphs & Decentralized Systems 🌐</span>
 </h1>
 
 <div align="center">
@@ -92,5 +93,11 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+### Currently Exploring 🚀
+- Advanced Vector Database Architectures
+- Multi-Modal AI Systems
+- Decentralized Identity Systems
+- Zero-Knowledge Proofs
+- Cross-Chain Communication
 
-last update today at 04:44:33
+last update today at 08:41:17
